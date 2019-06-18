@@ -1,0 +1,10 @@
+C:\Users\diwadu\source\repos\SeleniumWebDriver\SetupingYourEnvironment\SetupEnvironment\ConsoleApp1\bin\Debug\SetupEnvironment.exe.config
+C:\Users\diwadu\source\repos\SeleniumWebDriver\SetupingYourEnvironment\SetupEnvironment\ConsoleApp1\bin\Debug\SetupEnvironment.exe
+C:\Users\diwadu\source\repos\SeleniumWebDriver\SetupingYourEnvironment\SetupEnvironment\ConsoleApp1\bin\Debug\SetupEnvironment.pdb
+C:\Users\diwadu\source\repos\SeleniumWebDriver\SetupingYourEnvironment\SetupEnvironment\ConsoleApp1\bin\Debug\WebDriver.dll
+C:\Users\diwadu\source\repos\SeleniumWebDriver\SetupingYourEnvironment\SetupEnvironment\ConsoleApp1\bin\Debug\WebDriver.xml
+C:\Users\diwadu\source\repos\SeleniumWebDriver\SetupingYourEnvironment\SetupEnvironment\ConsoleApp1\obj\Debug\SetupEnvironment.csproj.CoreCompileInputs.cache
+C:\Users\diwadu\source\repos\SeleniumWebDriver\SetupingYourEnvironment\SetupEnvironment\ConsoleApp1\obj\Debug\SetupEnvironment.csproj.CopyComplete
+C:\Users\diwadu\source\repos\SeleniumWebDriver\SetupingYourEnvironment\SetupEnvironment\ConsoleApp1\obj\Debug\SetupEnvironment.exe
+C:\Users\diwadu\source\repos\SeleniumWebDriver\SetupingYourEnvironment\SetupEnvironment\ConsoleApp1\obj\Debug\SetupEnvironment.pdb
+C:\Users\diwadu\source\repos\SeleniumWebDriver\SetupingYourEnvironment\SetupEnvironment\ConsoleApp1\obj\Debug\SetupEnvironment.csprojAssemblyReference.cache

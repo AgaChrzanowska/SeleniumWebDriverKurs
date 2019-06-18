@@ -1,0 +1,11 @@
+C:\Users\diwadu\source\repos\SeleniumWebDriver\SetupingYourEnvironment\SetupEnvironment\04.CSS and X Path\obj\Debug\04. CSS and X Path.csprojAssemblyReference.cache
+C:\Users\diwadu\source\repos\SeleniumWebDriver\SetupingYourEnvironment\SetupEnvironment\04.CSS and X Path\obj\Debug\04. CSS and X Path.csproj.CoreCompileInputs.cache
+C:\Users\diwadu\source\repos\SeleniumWebDriver\SetupingYourEnvironment\SetupEnvironment\04.CSS and X Path\bin\Debug\CSS and X Path.exe
+C:\Users\diwadu\source\repos\SeleniumWebDriver\SetupingYourEnvironment\SetupEnvironment\04.CSS and X Path\bin\Debug\WebDriver.dll
+C:\Users\diwadu\source\repos\SeleniumWebDriver\SetupingYourEnvironment\SetupEnvironment\04.CSS and X Path\bin\Debug\WebDriver.xml
+C:\Users\diwadu\source\repos\SeleniumWebDriver\SetupingYourEnvironment\SetupEnvironment\04.CSS and X Path\obj\Debug\04. CSS and X Path.csproj.CopyComplete
+C:\Users\diwadu\source\repos\SeleniumWebDriver\SetupingYourEnvironment\SetupEnvironment\04.CSS and X Path\bin\Debug\CSSandXPath.exe.config
+C:\Users\diwadu\source\repos\SeleniumWebDriver\SetupingYourEnvironment\SetupEnvironment\04.CSS and X Path\bin\Debug\CSSandXPath.exe
+C:\Users\diwadu\source\repos\SeleniumWebDriver\SetupingYourEnvironment\SetupEnvironment\04.CSS and X Path\bin\Debug\CSSandXPath.pdb
+C:\Users\diwadu\source\repos\SeleniumWebDriver\SetupingYourEnvironment\SetupEnvironment\04.CSS and X Path\obj\Debug\CSSandXPath.exe
+C:\Users\diwadu\source\repos\SeleniumWebDriver\SetupingYourEnvironment\SetupEnvironment\04.CSS and X Path\obj\Debug\CSSandXPath.pdb

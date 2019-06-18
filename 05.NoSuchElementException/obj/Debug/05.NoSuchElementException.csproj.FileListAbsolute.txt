@@ -1,0 +1,10 @@
+C:\Users\diwadu\source\repos\SeleniumWebDriver\SetupingYourEnvironment\SetupEnvironment\05.NoSuchElementException\obj\Debug\05.NoSuchElementException.csproj.CoreCompileInputs.cache
+C:\Users\diwadu\source\repos\SeleniumWebDriver\SetupingYourEnvironment\SetupEnvironment\05.NoSuchElementException\bin\Debug\NoSuchElementException.exe.config
+C:\Users\diwadu\source\repos\SeleniumWebDriver\SetupingYourEnvironment\SetupEnvironment\05.NoSuchElementException\bin\Debug\NoSuchElementException.exe
+C:\Users\diwadu\source\repos\SeleniumWebDriver\SetupingYourEnvironment\SetupEnvironment\05.NoSuchElementException\bin\Debug\NoSuchElementException.pdb
+C:\Users\diwadu\source\repos\SeleniumWebDriver\SetupingYourEnvironment\SetupEnvironment\05.NoSuchElementException\bin\Debug\WebDriver.dll
+C:\Users\diwadu\source\repos\SeleniumWebDriver\SetupingYourEnvironment\SetupEnvironment\05.NoSuchElementException\bin\Debug\WebDriver.xml
+C:\Users\diwadu\source\repos\SeleniumWebDriver\SetupingYourEnvironment\SetupEnvironment\05.NoSuchElementException\obj\Debug\05.NoSuchElementException.csproj.CopyComplete
+C:\Users\diwadu\source\repos\SeleniumWebDriver\SetupingYourEnvironment\SetupEnvironment\05.NoSuchElementException\obj\Debug\NoSuchElementException.exe
+C:\Users\diwadu\source\repos\SeleniumWebDriver\SetupingYourEnvironment\SetupEnvironment\05.NoSuchElementException\obj\Debug\NoSuchElementException.pdb
+C:\Users\diwadu\source\repos\SeleniumWebDriver\SetupingYourEnvironment\SetupEnvironment\05.NoSuchElementException\obj\Debug\05.NoSuchElementException.csprojAssemblyReference.cache
