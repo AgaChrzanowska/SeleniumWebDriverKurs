@@ -11,13 +11,13 @@ class EntryPoint
         string cssPath = "#post-108 > div > fig img";
         string xPath = "//*[@id=\"post-108\"]/div/figure/img";
 
-        IWebDriver driver = new ChromeDriver();
+        IWebDriver driver = new ChromeDriver();cfghdfg
 
         driver.Navigate().GoToUrl(url); 
 
         IWebElement cssPathElement;
         IWebElement xPathElement = driver.FindElement(By.XPath(xPath));
-
+           
         try
         {
             cssPathElement = driver.FindElement(By.CssSelector(cssPath));
