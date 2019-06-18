@@ -1,0 +1,10 @@
+C:\Users\diwadu\source\repos\SeleniumWebDriver\SetupingYourEnvironment\SetupEnvironment\02.IDSelector\bin\Debug\WebDriver.dll
+C:\Users\diwadu\source\repos\SeleniumWebDriver\SetupingYourEnvironment\SetupEnvironment\02.IDSelector\bin\Debug\WebDriver.xml
+C:\Users\diwadu\source\repos\SeleniumWebDriver\SetupingYourEnvironment\SetupEnvironment\02.IDSelector\obj\Debug\02.IDSelector.csprojAssemblyReference.cache
+C:\Users\diwadu\source\repos\SeleniumWebDriver\SetupingYourEnvironment\SetupEnvironment\02.IDSelector\obj\Debug\02.IDSelector.csproj.CoreCompileInputs.cache
+C:\Users\diwadu\source\repos\SeleniumWebDriver\SetupingYourEnvironment\SetupEnvironment\02.IDSelector\obj\Debug\02.IDSelector.csproj.CopyComplete
+C:\Users\diwadu\source\repos\SeleniumWebDriver\SetupingYourEnvironment\SetupEnvironment\02.IDSelector\bin\Debug\IDSelector.exe.config
+C:\Users\diwadu\source\repos\SeleniumWebDriver\SetupingYourEnvironment\SetupEnvironment\02.IDSelector\bin\Debug\IDSelector.exe
+C:\Users\diwadu\source\repos\SeleniumWebDriver\SetupingYourEnvironment\SetupEnvironment\02.IDSelector\bin\Debug\IDSelector.pdb
+C:\Users\diwadu\source\repos\SeleniumWebDriver\SetupingYourEnvironment\SetupEnvironment\02.IDSelector\obj\Debug\IDSelector.exe
+C:\Users\diwadu\source\repos\SeleniumWebDriver\SetupingYourEnvironment\SetupEnvironment\02.IDSelector\obj\Debug\IDSelector.pdb
